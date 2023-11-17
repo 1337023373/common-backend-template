@@ -1,7 +1,7 @@
 # common-backend-template（通用后端模板）
 
 ## 介绍
-项目基础模板，提供基础的功能模块，具体如下：
+项目基础模板，提供基础的功能模块，base on yupi，具体如下：
 1. B站完整介绍教程：（敬请期待（￣︶￣）↗　）
 2. 权限认证框架：Sa-token，国产轻量级框架，官方文档：https://sa-token.cc/index.html
 3. 日志记录工具：Logback+Knife4j
