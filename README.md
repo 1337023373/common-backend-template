@@ -23,10 +23,12 @@
 
 ## 安装教程
 
-1. git clone 
+1. git clone https://gitee.com/cct_4/common-backend-template
 2. 等待依赖安装完成
 3. 自定义修改配置文件
 4. 项目，启动！
+5. 启动成功页面：
+![](https://picst.sunbangyan.cn/2023/11/17/d63c6af825fc8247ff7e6b13716959b7.png)
 
 ## 使用说明
 0. 全局搜索和替换的idea快捷键：Ctrl+Shift+F、Ctrl+Shift+R
@@ -38,7 +40,8 @@
 
 
 ## 后勤
-有其他问题可至我的Gitee反馈：https://gitee.com/cct_4/common-backend-template
+有其他问题可至我的B站私信反馈（请标明来处和目的）：https://space.bilibili.com/1198127286?spm_id_from=333.1007.0.0
+![bilibili](https://picdl.sunbangyan.cn/2023/11/17/0629277188fb42abe56b5417e7d09b95.png)
 
 ## 项目完整目录结构：
 ```lua
