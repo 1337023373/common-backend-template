@@ -2,7 +2,7 @@
 
 ## 介绍
 项目基础模板，提供基础的功能模块，base on yupi，具体如下：
-1. B站完整介绍教程：（敬请期待（￣︶￣）↗　）
+1. B站完整介绍教程：https://www.bilibili.com/video/BV1jN4y1S7eC/?spm_id_from=333.999.list.card_archive.click&vd_source=3c68c4954142f1c67c2386ed8e28d42c
 2. 权限认证框架：Sa-token，国产轻量级框架，官方文档：https://sa-token.cc/index.html
 3. 日志记录工具：Logback+Knife4j
 4. 文件工具（OSS集成）：Minio
